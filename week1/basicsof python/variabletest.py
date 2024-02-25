@@ -1,0 +1,2 @@
+variabletest="my_first_variable_assignment"
+print(variabletest)
