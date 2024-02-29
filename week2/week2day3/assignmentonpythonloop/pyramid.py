@@ -1,0 +1,1 @@
+def pyramid(input_string):
